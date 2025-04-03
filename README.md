@@ -1,7 +1,7 @@
 ### Hi! I'm Eder Jr 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=515151&size=35&v&width=1000&lines=Frontend+Engineer!;+:%29)](https://git.io/typing-svg)
 
-- 🔭 Frontend Engineer
+- 🔭 Software Engineer
 - 🌱 Software Engineering Course
 - 📫 Contact me at email: ederjuninho2003@gmail.com
 
